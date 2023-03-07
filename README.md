@@ -1,6 +1,7 @@
 # Processing-and-Analysis-of-Sequential-Data
 
 Introducere
+
 In ziua de azi, majoritatea problemelor ajung sa fie rezolvate cu tehnici de ınvatare automata.
 Pentru ca aceste tehnici sa functioneze, este nevoie de cantitati semnificative de date. Aceste
 date provin de obicei dintr-o varietate de surse, iar majoritatea sunt nesigure. Deoarece ın
@@ -16,6 +17,7 @@ secunda 22 ınregistrari)
 
 
 Mod de rulare
+
 Pentru rezolvarea temei veti avea de urmarit o serie de comenzi pe care le veti primi ca
 argumente din linie de comanda. Citirea si scrierea se vor face la stdin respectiv stdout.
 Argumentele pe care programul vostru va trebui sa le implementeze sunt:
